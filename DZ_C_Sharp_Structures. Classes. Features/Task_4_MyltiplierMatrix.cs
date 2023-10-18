@@ -43,7 +43,5 @@ namespace DZ_C_Sharp_Structures._Classes._Features
                 Console.WriteLine();
             }            
         }
-
-
     }
 }
